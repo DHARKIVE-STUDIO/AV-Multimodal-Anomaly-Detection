@@ -1,4 +1,4 @@
-# AV Multimodal Anomaly Detection (Autonomous Vehicle)
+# AV Real-Time Multimodal Anomaly Detection (Autonomous Vehicle)
 
 Multimodal anomaly detection for **autonomous driving scenes** using **camera video + audio** signals to identify unusual, risky, or out-of-distribution events (e.g., unexpected objects, abnormal driving contexts, near-miss patterns, rare acoustic cues like sirens/horns, etc.).  
 This repo focuses on **audio-visual fusion** and evaluation workflows for AV anomaly scoring.
